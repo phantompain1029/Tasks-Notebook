@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="title_activity_notes">Notes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="error_message_email">Incorrect Email</string>
+    <string name="error_valid_email_password">Incorrect Email and Password</string>
+    <string name="error_message_name">Please Confirm your Name</string>
+    <string name="error_password_match">Email and Password Combination not Present</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_message_password">Password Incorrect</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
